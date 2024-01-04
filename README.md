@@ -19,7 +19,7 @@ Projeto exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./preview.png"
+  <img alt="projeto DevLinks" src="./assets/assets/preview.png"
   width="100%">
 </p>
 
